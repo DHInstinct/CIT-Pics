@@ -30,17 +30,28 @@ Specifically, you will create the following:
 
 Home Page
   • Contains information about your application (be creative)
+  
   • Provides links to Register/Login
+  
   • If a person is already logged in, goes to the photo browsing page
+  
 Registration Screen
   • Users of CITPics must register for an account before they are able to login and upload photos.
+  
   • All registrants will be normal users (0 for value of u_isAdmin)
+  
   • Registration should ask the user for:
+  
   o First name
+  
   o Last name
+  
   o E-mail
+  
   o Password
+  
   o Geographic Location (zip code)
+  
 Login Screen
   § After registration, a user must login
   § This page will present the user with a login in screen.
