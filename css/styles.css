@@ -1,0 +1,17 @@
+.col-6 {
+  border: 5px solid salmon;
+  padding: 10px;
+}
+
+.row {
+  padding: 10px;
+  padding-left: 10px;
+}
+
+.padbottom {
+  padding-bottom: 15px;
+}
+
+.smallimg {
+  max-width: 50%;
+}
